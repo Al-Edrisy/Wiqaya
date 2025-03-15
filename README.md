@@ -1,11 +1,11 @@
 
-# Dr.GPT - Healthcare Advice App
+# Wiqaya - Healthcare Advice App
 
 Welcome to the **Wiqaya** repository! This app provides AI-powered health advice, personalized health tips, and allows users to schedule appointments and reminders. It uses AI to simulate a health consultation, offering guidance on various health topics, while also providing personalized health tips based on the user’s lifestyle and medical history.
 
 ## 📜 Features
 
-1. **Dr. GPT**: An AI-powered virtual assistant offering real-time health consultations and personalized advice based on user data.
+1. **Wiqaya**: An AI-powered virtual assistant offering real-time health consultations and personalized advice based on user data.
 2. **Personalized Health Tips**: Provides tailored health tips based on the user’s medical history, lifestyle, and other input data.
 3. **Nearby Hospitals & Doctor Finder**: Allows users to discover nearby hospitals and healthcare providers.
 4. **Appointment & Reminder Scheduling**: Users can schedule health-related appointments and receive reminders.
