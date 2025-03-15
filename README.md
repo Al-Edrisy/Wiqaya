@@ -1,7 +1,7 @@
 
 # Dr.GPT - Healthcare Advice App
 
-Welcome to the **Dr.GPT** repository! This app provides AI-powered health advice, personalized health tips, and allows users to schedule appointments and reminders. It uses AI to simulate a health consultation, offering guidance on various health topics, while also providing personalized health tips based on the user’s lifestyle and medical history.
+Welcome to the **Wiqaya** repository! This app provides AI-powered health advice, personalized health tips, and allows users to schedule appointments and reminders. It uses AI to simulate a health consultation, offering guidance on various health topics, while also providing personalized health tips based on the user’s lifestyle and medical history.
 
 ## 📜 Features
 
@@ -30,7 +30,6 @@ Before you begin, ensure you have the following installed:
 - **Node.js** (v14 or higher)
 - **React Native CLI** (for building mobile apps)
 - **Firebase** account (for backend setup)
-- **Twilio** account (for SMS functionality)
 - **Google Maps API** (for finding nearby hospitals)
 
 ### Installation
@@ -38,13 +37,13 @@ Before you begin, ensure you have the following installed:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/Al-Edrisy/Dr.GPT.git
+   git clone https://github.com/Al-Edrisy/Wiqaya.git
    ```
 
 2. **Navigate to the Project Directory**:
 
    ```bash
-   cd Dr.GPT
+   cd Wiqaya
    ```
 
 3. **Install Dependencies**:
@@ -82,7 +81,7 @@ Click the **Fork** button at the top-right corner of the repository page to crea
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Dr.GPT.git
+git clone https://github.com/YOUR-USERNAME/Wiqaya.git
 ```
 
 ### 3. Set Upstream to Original Repository
@@ -91,7 +90,7 @@ This will keep your fork up to date with the original repository:
 
 ```bash
 cd Dr.GPT
-git remote add upstream https://github.com/Al-Edrisy/Dr.GPT.git
+git remote add upstream https://github.com/Al-Edrisy/Wiqaya.git
 ```
 
 ### 4. Create a New Branch
@@ -171,7 +170,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Thank you for contributing to **Dr.GPT**! Your support helps us provide better healthcare advice and features to users worldwide.
+Thank you for contributing to **Wiqaya**! Your support helps us provide better healthcare advice and features to users worldwide.
 ```
 
 ---
